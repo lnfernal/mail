@@ -33,6 +33,7 @@ python main.py
 ```
 rm -rf mail
 ```
+## **DEMO**
 ![Demo](https://github.com/AK27HBD/mail/blob/main/mail.jpg)
 ## Inbox for user and password 👇
 
