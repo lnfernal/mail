@@ -35,7 +35,7 @@ rm -rf mail
 ```
 ## **DEMO**
 ![Demo](https://github.com/AK27HBD/mail/blob/main/mail.jpg)
-## Inbox for user and password 👇
+## Inbox for help👇
 
 <a href="https://m.me/AK27H.BD"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
 
