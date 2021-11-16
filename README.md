@@ -13,7 +13,7 @@
 
 <h2 align="center">☆[INFORMATION]☆</h2>
 
-* This is a sms bombing tool. <br>Please don't use it for any illegal works!!<br> Thanks.<br></p>
+* This is a Email bombing tool. <br>Please don't use it for any illegal works!!<br> Thanks.<br></p>
 
 
 <h3 align="center">☆[INSTALL]☆</h3>
