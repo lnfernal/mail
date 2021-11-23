@@ -13,51 +13,28 @@
 
 <h2 align="center">☆[INFORMATION]☆</h2>
 
-* This is a Email bombing tool. <br>Please don't use it for any illegal works!!<br> Thanks.<br></p>
+* Email Bomber😴<br> Thanks.<br></p>
 
 
 <h3 align="center">☆[INSTALL]☆</h3>
 
 ```
 apt update && upgrade -y
-```
-
-```
 pkg install git -y
-```
-
-```
+git clone https://github.com/AK27X/mail
 pkg install python -y
-```
-```
-pkg install ruby -y
-```
-
-```
-pkg install figlet
-```
-
-```
-pip install requests
-```
-
-```
-pip install coloroma
-```
-
-```
-gem install lolcat
 ```
 
 <h5 align="center">☆[RUN]☆<h5>
 
 ```
 cd mail
-```
 
+python mail
 ```
-python main.py
-```
+<p align="center">
+  <img alt="Layout" src="x.jpg">
+</p>
 <h4 align="center">☆[UNINSTALL]☆<h4>
 
 ```
@@ -65,6 +42,6 @@ rm -rf mail
 ```
 
 <h6 align="center">
-☆CONTACT☆
+☆CONTACT FOR PROBLEM AND USER&PASS☆
 </h5>
 <p align="center"><a href="https://AK27X.github.io"><img title="CONTACT" src="https://img.shields.io/badge/CONTACT%20WITH-AK27X-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
